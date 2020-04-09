@@ -1,6 +1,7 @@
 1\input username and password
 2\validate
 3\to db
-4��return local
-5��winner
+4¡¢return local
+5¡¢winner
+6\远程修改
 
