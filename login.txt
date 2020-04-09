@@ -1,4 +1,12 @@
-1\input username and password
+ï»¿1\input username and password
 2\validate
 3\to db
-ÍõºÆØ©
+
+ç‹æµ©ä¸
+
+
+
+
+
+
+
