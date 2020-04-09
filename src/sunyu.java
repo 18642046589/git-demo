@@ -17,5 +17,5 @@ public interface IMenuDao {
 	List<SysMenu> getMenuList(String parentId)throws ClassNotFoundException, SQLException;
 
 	List<MenuData> getMenuDataList(String id)throws ClassNotFoundException, SQLException;
-
+    sysout
 }
