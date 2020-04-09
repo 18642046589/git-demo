@@ -1,8 +1,11 @@
 ﻿1\input username and password
 2\validate
 3\to db
-
+4¡¢to object
 5、潘振东
+王浩丞
+我再试一试好不好用   没毛病就行了
+李桂芬 123
 
 
 
