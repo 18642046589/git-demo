@@ -1,9 +1,15 @@
 ﻿1\input username and password
 2\validate
 3\to db
+<<<<<<< HEAD
 4¡¢to object
   远程update
-李桂芬 update
+
+=======
+
+王浩丞
+李桂芬 123
+>>>>>>> 59b48c2966af3ec468a2e6c2f80818507faf83e7
 
 
 
