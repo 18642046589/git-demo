@@ -1,10 +1,27 @@
 ﻿1\input username and password
 2\validate
 3\to db
+<<<<<<< HEAD
 4¡¢to object
   远程update
+<<<<<<< HEAD
 5ywb
+=======
 
+<<<<<<< HEAD
+=======
+
+王浩丞
+
+>>>>>>> 59b48c2966af3ec468a2e6c2f80818507faf83e7
+=======
+王浩丞
+我再试一试好不好用   没毛病就行了
+>>>>>>> 2c88b8f56d9ae6d94d9244bca70fbaa73df0630d
+李桂芬 123
+
+>>>>>>> 41d475789faef94945d025210c05315b29790f21
+于文博 测试
 
 
 
