@@ -1,4 +1,4 @@
-  
+﻿  
 ﻿1\input username and password
 2\validate
 3\to db
@@ -7,7 +7,7 @@
   远程update
 <<<<<<< HEAD
 5ywb
-=======
+
 
 
 王浩丞
@@ -17,5 +17,8 @@
 
 李诗悦
 
->>>>>>> 41d475789faef94945d025210c05315b29790f21
+
 于文博 测试
+
+李诗悦 测试
+
