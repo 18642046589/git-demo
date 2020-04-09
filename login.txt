@@ -1,24 +1,7 @@
-﻿  
-﻿1\input username and password
+﻿ 1\input username and password
 2\validate
 3\to db
-<<<<<<< HEAD
 4¡¢to object
-  远程update
-<<<<<<< HEAD
-5ywb
+  张玉飞测试update
 
-
-
-王浩丞
-
-王浩丞
-我再试一试好不好用   没毛病就行了
-
-李诗悦
-
-
-于文博 测试
-
-李诗悦 测试
 
